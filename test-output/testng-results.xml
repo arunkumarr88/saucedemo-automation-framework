@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-12T21:43:21 IST" name="SauceDemo" finished-at="2026-03-12T21:44:00 IST" duration-ms="38889">
+    <groups>
+    </groups>
+    <test started-at="2026-03-12T21:43:21 IST" name="Test" finished-at="2026-03-12T21:44:00 IST" duration-ms="38889">
+      <class name="com.trinity.saucedemo.tests.SauceDemoShoppingTestCases">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.trinity.saucedemo.tests.SauceDemoShoppingTestCases@6986852]" started-at="2026-03-12T21:43:21 IST" name="startReport" finished-at="2026-03-12T21:43:21 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="report(java.lang.reflect.Method)[pri:0, instance:com.trinity.saucedemo.tests.SauceDemoShoppingTestCases@6986852]" started-at="2026-03-12T21:43:21 IST" name="report" finished-at="2026-03-12T21:43:21 IST" duration-ms="18" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.trinity.saucedemo.tests.SauceDemoShoppingTestCases.testPositiveShoppingFlow()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="report(java.lang.reflect.Method)[pri:0, instance:com.trinity.saucedemo.tests.SauceDemoShoppingTestCases@6986852]" started-at="2026-03-12T21:43:21 IST" name="report" finished-at="2026-03-12T21:43:21 IST" duration-ms="18" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.trinity.saucedemo.tests.SauceDemoShoppingTestCases.testProductSorting()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="report(java.lang.reflect.Method)[pri:0, instance:com.trinity.saucedemo.tests.SauceDemoShoppingTestCases@6986852]" started-at="2026-03-12T21:43:21 IST" name="report" finished-at="2026-03-12T21:43:21 IST" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.trinity.saucedemo.tests.SauceDemoShoppingTestCases.testSocialMediaRediection()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:com.trinity.saucedemo.tests.SauceDemoShoppingTestCases@6986852]" started-at="2026-03-12T21:43:21 IST" name="startBrowser" finished-at="2026-03-12T21:43:28 IST" duration-ms="6452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:com.trinity.saucedemo.tests.SauceDemoShoppingTestCases@6986852]" started-at="2026-03-12T21:43:21 IST" name="startBrowser" finished-at="2026-03-12T21:43:28 IST" duration-ms="6743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:com.trinity.saucedemo.tests.SauceDemoShoppingTestCases@6986852]" started-at="2026-03-12T21:43:21 IST" name="startBrowser" finished-at="2026-03-12T21:43:27 IST" duration-ms="5213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="testPositiveShoppingFlow()[pri:0, instance:com.trinity.saucedemo.tests.SauceDemoShoppingTestCases@6986852]" started-at="2026-03-12T21:43:27 IST" name="testPositiveShoppingFlow" description="Automate the end-to-end shopping experience for a successful order placement, including adding multiple items, removing some items, and verifying accurate cart calculations." finished-at="2026-03-12T21:43:47 IST" duration-ms="20120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPositiveShoppingFlow -->
+        <test-method signature="testSocialMediaRediection()[pri:0, instance:com.trinity.saucedemo.tests.SauceDemoShoppingTestCases@6986852]" started-at="2026-03-12T21:43:28 IST" name="testSocialMediaRediection" description="Verify that all social media icons on the application footer redirect to the correct external platforms." finished-at="2026-03-12T21:43:59 IST" duration-ms="30774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSocialMediaRediection -->
+        <test-method signature="testProductSorting()[pri:0, instance:com.trinity.saucedemo.tests.SauceDemoShoppingTestCases@6986852]" started-at="2026-03-12T21:43:28 IST" name="testProductSorting" description="Verify that products are sorted correctly based on the default sorting option and that the sorting functionality works as expected." finished-at="2026-03-12T21:43:42 IST" duration-ms="13782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductSorting -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.trinity.saucedemo.tests.SauceDemoShoppingTestCases@6986852]" started-at="2026-03-12T21:43:42 IST" name="tearDown" finished-at="2026-03-12T21:43:48 IST" duration-ms="5750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.trinity.saucedemo.tests.SauceDemoShoppingTestCases@6986852]" started-at="2026-03-12T21:43:47 IST" name="tearDown" finished-at="2026-03-12T21:43:51 IST" duration-ms="3814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.trinity.saucedemo.tests.SauceDemoShoppingTestCases@6986852]" started-at="2026-03-12T21:43:59 IST" name="tearDown" finished-at="2026-03-12T21:44:00 IST" duration-ms="1610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stopReport()[pri:0, instance:com.trinity.saucedemo.tests.SauceDemoShoppingTestCases@6986852]" started-at="2026-03-12T21:44:00 IST" name="stopReport" finished-at="2026-03-12T21:44:02 IST" duration-ms="1636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopReport -->
+      </class> <!-- com.trinity.saucedemo.tests.SauceDemoShoppingTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- SauceDemo -->
+</testng-results>

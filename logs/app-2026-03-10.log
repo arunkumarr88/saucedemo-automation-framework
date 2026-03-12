@@ -1,0 +1,841 @@
+2026-03-10 18:42:09,135 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+2026-03-10 18:42:09,147 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 7 ms. 
+2026-03-10 18:42:09,150 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 18:42:09,151 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 18:42:09,152 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 18:42:09,543 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 18:42:09,548 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 18:42:09,550 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 18:42:09,554 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 18:42:09,555 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 18:42:09,561 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 18:42:09,563 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 18:42:09,565 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 18:42:09,566 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 18:42:09,568 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 18:42:09,570 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 18:42:09,577 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+2026-03-10 18:42:09,590 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 12 ms. 
+2026-03-10 18:42:09,607 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 18:42:09,611 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 18:42:09,619 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 18:42:09,622 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 18:42:09,623 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 18:42:09,623 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 18:42:09,630 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms. 
+2026-03-10 18:42:09,633 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 18:42:09,636 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 18:42:09,637 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 18:42:09,639 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 18:42:09,641 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+2026-03-10 18:42:09,653 | [] [] [INFO ] [Logger.java:112] - [TestNG] Running:
+  C:\Users\arunkumar.r\AppData\Local\Temp\testng-eclipse--1107172529\testng-customsuite.xml
+ 
+2026-03-10 18:42:09,895 | [] [] [INFO ] [Logger.java:112] - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms. 
+2026-03-10 18:42:09,917 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 18:42:09,941 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 18:42:14,123 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 18:42:14,276 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:256] - Successfully captured Screenshot with snapnumber: 11773148334129 
+2026-03-10 18:42:14,992 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 18:42:15,268 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:256] - Successfully captured Screenshot with snapnumber: 11773148334992 
+2026-03-10 18:42:16,351 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 18:42:16,480 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:256] - Successfully captured Screenshot with snapnumber: 11773148336355 
+2026-03-10 18:42:16,924 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 18:42:17,033 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:256] - Successfully captured Screenshot with snapnumber: 11773148336924 
+2026-03-10 18:42:18,542 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 18:42:18,782 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:256] - Successfully captured Screenshot with snapnumber: 11773148338542 
+2026-03-10 18:42:19,017 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:256] - Successfully captured Screenshot with snapnumber: 11773148338885 
+2026-03-10 18:42:19,332 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 18:42:19,472 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:256] - Successfully captured Screenshot with snapnumber: 11773148339332 
+2026-03-10 18:42:19,642 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:256] - Successfully captured Screenshot with snapnumber: 11773148339526 
+2026-03-10 18:42:20,229 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Reporter.java:243] - Browser/Driver Versions Used: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50494}, goog:processID: 12776, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50494/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2026-03-10 18:42:20,230 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Reporter.java:247] - Resolution Used: null 
+2026-03-10 18:42:20,231 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Reporter.java:251] - Java version Used: 21.0.1 
+2026-03-10 18:42:20,233 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Reporter.java:255] - *******END OF LOG FILE******* 
+2026-03-10 18:42:20,692 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.jq.Main@d6d683e: 113 ms 
+2026-03-10 18:42:20,697 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.FailedReporter@71beada8: 2 ms 
+2026-03-10 18:42:20,707 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.XMLReporter@4ae958b0: 10 ms 
+2026-03-10 18:42:20,715 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@323efafe: 7 ms 
+2026-03-10 18:42:20,721 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@46de118b: 5 ms 
+2026-03-10 18:42:20,721 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@55682482: 0 ms 
+2026-03-10 19:04:45,475 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms. 
+2026-03-10 19:04:45,494 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 13 ms. 
+2026-03-10 19:04:45,498 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:04:45,500 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:04:45,503 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:04:45,504 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:04:45,506 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:04:45,507 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:04:45,508 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:04:45,510 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:04:45,512 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:04:45,515 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:04:45,516 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:04:45,518 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:04:45,522 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:04:45,522 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:04:45,527 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:04:45,556 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 28 ms. 
+2026-03-10 19:04:45,560 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:04:45,562 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:04:45,567 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:04:45,568 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:04:45,569 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:04:45,569 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:04:45,584 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms. 
+2026-03-10 19:04:45,586 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:04:45,590 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:04:45,590 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:04:45,593 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms. 
+2026-03-10 19:04:45,597 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+2026-03-10 19:04:45,610 | [] [] [INFO ] [Logger.java:112] - [TestNG] Running:
+  C:\Users\arunkumar.r\AppData\Local\Temp\testng-eclipse-2024288378\testng-customsuite.xml
+ 
+2026-03-10 19:04:45,840 | [] [] [INFO ] [Logger.java:112] - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms. 
+2026-03-10 19:04:45,858 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 19:04:45,863 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 19:04:49,579 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:04:49,717 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:257] - Successfully captured Screenshot with snapnumber: 11773149689585 
+2026-03-10 19:04:50,543 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:04:50,774 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:257] - Successfully captured Screenshot with snapnumber: 11773149690543 
+2026-03-10 19:04:56,701 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:257] - Successfully captured Screenshot with snapnumber: 11773149691083 
+2026-03-10 19:04:56,983 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:257] - Successfully captured Screenshot with snapnumber: 11773149696734 
+2026-03-10 19:05:17,209 | [Scenario 2: Social Media Icon Redirection Validation] [] [ERROR] [SeleniumBase.java:48] - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable, but the element null.
+(tried for 20 seconds with 500 milliseconds interval) 
+2026-03-10 19:07:47,100 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms. 
+2026-03-10 19:07:47,113 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 9 ms. 
+2026-03-10 19:07:47,116 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:07:47,119 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:07:47,121 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:07:47,122 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:07:47,123 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:07:47,124 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:07:47,125 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:07:47,126 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:07:47,128 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:07:47,129 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:07:47,130 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:07:47,131 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:07:47,133 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:07:47,134 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:07:47,136 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:07:47,151 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 14 ms. 
+2026-03-10 19:07:47,153 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:07:47,154 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:07:47,159 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:07:47,160 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:07:47,160 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:07:47,160 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:07:47,168 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms. 
+2026-03-10 19:07:47,169 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:07:47,173 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:07:47,174 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:07:47,175 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:07:47,176 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:07:47,185 | [] [] [INFO ] [Logger.java:112] - [TestNG] Running:
+  C:\Users\arunkumar.r\AppData\Local\Temp\testng-eclipse-155825126\testng-customsuite.xml
+ 
+2026-03-10 19:07:47,378 | [] [] [INFO ] [Logger.java:112] - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms. 
+2026-03-10 19:07:47,394 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 19:07:47,398 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 19:07:51,718 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:07:51,858 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773149871718 
+2026-03-10 19:07:52,740 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:07:52,983 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773149872742 
+2026-03-10 19:07:59,433 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773149873240 
+2026-03-10 19:07:59,645 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773149879448 
+2026-03-10 19:08:03,684 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773149880006 
+2026-03-10 19:08:03,871 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773149883715 
+2026-03-10 19:08:06,186 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773149884302 
+2026-03-10 19:08:07,024 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:243] - Browser/Driver Versions Used: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52155}, goog:processID: 26900, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52155/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2026-03-10 19:08:07,025 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:247] - Resolution Used: null 
+2026-03-10 19:08:07,026 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:251] - Java version Used: 21.0.1 
+2026-03-10 19:08:07,026 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:255] - *******END OF LOG FILE******* 
+2026-03-10 19:08:07,446 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.jq.Main@23f3da8b: 94 ms 
+2026-03-10 19:08:07,466 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.FailedReporter@748d2277: 18 ms 
+2026-03-10 19:08:07,482 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.XMLReporter@6a1d3225: 16 ms 
+2026-03-10 19:08:07,495 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@250a500b: 9 ms 
+2026-03-10 19:08:07,502 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@372ca2d6: 7 ms 
+2026-03-10 19:08:07,502 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3204e238: 0 ms 
+2026-03-10 19:10:18,495 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms. 
+2026-03-10 19:10:18,510 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 10 ms. 
+2026-03-10 19:10:18,514 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:10:18,517 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:10:18,519 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:10:18,520 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:10:18,523 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:10:18,524 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:10:18,525 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:10:18,526 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:10:18,527 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:10:18,528 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:10:18,529 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:10:18,529 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:10:18,530 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:10:18,531 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:10:18,533 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:10:18,550 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 16 ms. 
+2026-03-10 19:10:18,553 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:10:18,553 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:10:18,558 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:10:18,559 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:10:18,559 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:10:18,560 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:10:18,567 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms. 
+2026-03-10 19:10:18,568 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:10:18,570 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:10:18,570 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:10:18,571 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+2026-03-10 19:10:18,571 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:10:18,582 | [] [] [INFO ] [Logger.java:112] - [TestNG] Running:
+  C:\Users\arunkumar.r\AppData\Local\Temp\testng-eclipse-760264004\testng-customsuite.xml
+ 
+2026-03-10 19:10:18,774 | [] [] [INFO ] [Logger.java:112] - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms. 
+2026-03-10 19:10:18,792 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 19:10:18,796 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 19:10:21,269 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:10:21,402 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150021269 
+2026-03-10 19:10:22,061 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:10:22,383 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150022061 
+2026-03-10 19:10:28,878 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150022783 
+2026-03-10 19:10:29,269 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150028912 
+2026-03-10 19:10:32,533 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150029691 
+2026-03-10 19:10:32,771 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150032578 
+2026-03-10 19:10:35,444 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150033568 
+2026-03-10 19:10:36,952 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:243] - Browser/Driver Versions Used: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56629}, goog:processID: 13576, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56629/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2026-03-10 19:10:36,953 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:247] - Resolution Used: null 
+2026-03-10 19:10:36,954 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:251] - Java version Used: 21.0.1 
+2026-03-10 19:10:36,955 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:255] - *******END OF LOG FILE******* 
+2026-03-10 19:10:37,904 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.jq.Main@176996c3: 141 ms 
+2026-03-10 19:10:37,945 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.FailedReporter@c755b2: 38 ms 
+2026-03-10 19:10:37,969 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.XMLReporter@7b306b9f: 24 ms 
+2026-03-10 19:10:37,983 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6e4f263e: 14 ms 
+2026-03-10 19:10:38,006 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4996c99: 22 ms 
+2026-03-10 19:10:38,012 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1b956cfa: 0 ms 
+2026-03-10 19:14:11,992 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+2026-03-10 19:14:12,007 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 10 ms. 
+2026-03-10 19:14:12,009 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:14:12,009 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:14:12,010 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:14:12,010 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:14:12,011 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:14:12,012 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:14:12,013 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:14:12,013 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:14:12,015 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:14:12,015 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:14:12,016 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:14:12,016 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:14:12,019 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:14:12,020 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:14:12,023 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:14:12,037 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 12 ms. 
+2026-03-10 19:14:12,040 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:14:12,041 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:14:12,045 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:14:12,046 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:14:12,046 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:14:12,048 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:14:12,060 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms. 
+2026-03-10 19:14:12,062 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:14:12,065 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:14:12,066 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:14:12,070 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+2026-03-10 19:14:12,072 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:14:12,080 | [] [] [INFO ] [Logger.java:112] - [TestNG] Running:
+  C:\Users\arunkumar.r\AppData\Local\Temp\testng-eclipse--930586463\testng-customsuite.xml
+ 
+2026-03-10 19:14:12,264 | [] [] [INFO ] [Logger.java:112] - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms. 
+2026-03-10 19:14:12,281 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 19:14:12,286 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 19:14:15,483 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:14:15,592 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150255483 
+2026-03-10 19:14:16,378 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:14:16,651 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150256378 
+2026-03-10 19:14:22,161 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150257064 
+2026-03-10 19:14:22,542 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150262319 
+2026-03-10 19:14:23,366 | [Scenario 2: Social Media Icon Redirection Validation] [] [ERROR] [SeleniumBase.java:260] - org.openqa.selenium.TimeoutException: timeout
+from aborted by navigation: Not attached to an active page
+  (Session info: chrome=145.0.7632.160)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [101adbf4f14a60d91120a369cf7051ec, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61389}, goog:processID: 9360, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61389/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 101adbf4f14a60d91120a369cf7051ec 
+2026-03-10 19:14:23,370 | [Scenario 2: Social Media Icon Redirection Validation] [] [ERROR] [SeleniumBase.java:230] - java.lang.Exception: Exception Occured when taking snapshot:timeout
+from aborted by navigation: Not attached to an active page
+  (Session info: chrome=145.0.7632.160)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [101adbf4f14a60d91120a369cf7051ec, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61389}, goog:processID: 9360, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61389/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 101adbf4f14a60d91120a369cf7051ec 
+2026-03-10 19:14:25,365 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150264832 
+2026-03-10 19:14:28,528 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150265915 
+2026-03-10 19:14:49,071 | [Scenario 2: Social Media Icon Redirection Validation] [] [ERROR] [Waiter.java:1123] - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for title to be "Sign Up | LinkedIn". Current title: "Sauce Labs | LinkedIn".
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61389}, goog:processID: 9360, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61389/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 101adbf4f14a60d91120a369cf7051ec 
+2026-03-10 19:14:49,716 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:243] - Browser/Driver Versions Used: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61389}, goog:processID: 9360, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61389/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2026-03-10 19:14:49,716 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:247] - Resolution Used: null 
+2026-03-10 19:14:49,716 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:251] - Java version Used: 21.0.1 
+2026-03-10 19:14:49,716 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:255] - *******END OF LOG FILE******* 
+2026-03-10 19:14:50,050 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.jq.Main@58f39564: 82 ms 
+2026-03-10 19:14:50,078 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.FailedReporter@58ba5b30: 26 ms 
+2026-03-10 19:14:50,094 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.XMLReporter@6ad16c5d: 14 ms 
+2026-03-10 19:14:50,111 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@ccf91df: 16 ms 
+2026-03-10 19:14:50,119 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7e53339: 7 ms 
+2026-03-10 19:14:50,121 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@58fef7f7: 0 ms 
+2026-03-10 19:16:26,087 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms. 
+2026-03-10 19:16:26,100 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 9 ms. 
+2026-03-10 19:16:26,103 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:16:26,104 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:16:26,107 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:16:26,108 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:16:26,110 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:16:26,110 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:16:26,111 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:16:26,111 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:16:26,112 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:16:26,113 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:16:26,114 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:16:26,115 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:16:26,116 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:16:26,116 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:16:26,119 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:16:26,137 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 16 ms. 
+2026-03-10 19:16:26,139 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:16:26,140 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:16:26,145 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:16:26,146 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:16:26,147 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:16:26,147 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:16:26,160 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms. 
+2026-03-10 19:16:26,161 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:16:26,165 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:16:26,166 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:16:26,168 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+2026-03-10 19:16:26,171 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:16:26,182 | [] [] [INFO ] [Logger.java:112] - [TestNG] Running:
+  C:\Users\arunkumar.r\AppData\Local\Temp\testng-eclipse--90863505\testng-customsuite.xml
+ 
+2026-03-10 19:16:26,371 | [] [] [INFO ] [Logger.java:112] - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms. 
+2026-03-10 19:16:26,387 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 19:16:26,392 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 19:16:29,418 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:16:29,532 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150389420 
+2026-03-10 19:16:30,369 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:16:30,640 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150390369 
+2026-03-10 19:16:36,975 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150396745 
+2026-03-10 19:16:39,715 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150399285 
+2026-03-10 19:17:00,680 | [Scenario 2: Social Media Icon Redirection Validation] [] [ERROR] [Waiter.java:1123] - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for title to be "Sign Up | LinkedIn". Current title: "Sauce Labs | LinkedIn".
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.40.0', revision: 'b3333f1'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60733}, goog:processID: 7732, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60733/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4cfcfdd9b83ffea1f8322a6a49413dc3 
+2026-03-10 19:17:01,340 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:243] - Browser/Driver Versions Used: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60733}, goog:processID: 7732, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60733/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2026-03-10 19:17:01,340 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:247] - Resolution Used: null 
+2026-03-10 19:17:01,341 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:251] - Java version Used: 21.0.1 
+2026-03-10 19:17:01,343 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:255] - *******END OF LOG FILE******* 
+2026-03-10 19:17:01,700 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.jq.Main@2f897dab: 87 ms 
+2026-03-10 19:17:01,713 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.FailedReporter@4f89331f: 12 ms 
+2026-03-10 19:17:01,728 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.XMLReporter@5ea4300e: 14 ms 
+2026-03-10 19:17:01,737 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5f481b73: 8 ms 
+2026-03-10 19:17:01,746 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@75d4a80f: 8 ms 
+2026-03-10 19:17:01,746 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4596f8f3: 0 ms 
+2026-03-10 19:17:47,256 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms. 
+2026-03-10 19:17:47,273 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 12 ms. 
+2026-03-10 19:17:47,276 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:17:47,279 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:17:47,281 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:17:47,281 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:17:47,282 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:17:47,282 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:17:47,283 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:17:47,283 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:17:47,284 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:17:47,285 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:17:47,286 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:17:47,286 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:17:47,288 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:17:47,288 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:17:47,292 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:17:47,308 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 16 ms. 
+2026-03-10 19:17:47,311 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:17:47,313 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:17:47,317 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:17:47,318 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:17:47,318 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:17:47,318 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:17:47,328 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms. 
+2026-03-10 19:17:47,329 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:17:47,332 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:17:47,332 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:17:47,333 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:17:47,335 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:17:47,342 | [] [] [INFO ] [Logger.java:112] - [TestNG] Running:
+  C:\Users\arunkumar.r\AppData\Local\Temp\testng-eclipse--1172820987\testng-customsuite.xml
+ 
+2026-03-10 19:17:47,535 | [] [] [INFO ] [Logger.java:112] - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms. 
+2026-03-10 19:17:47,552 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 19:17:47,556 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 19:17:50,297 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:17:50,430 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150470303 
+2026-03-10 19:17:51,044 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:17:51,260 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150471044 
+2026-03-10 19:17:57,491 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150477298 
+2026-03-10 19:18:00,529 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150480313 
+2026-03-10 19:18:03,305 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:258] - Successfully captured Screenshot with snapnumber: 11773150482989 
+2026-03-10 19:18:04,334 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:243] - Browser/Driver Versions Used: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56462}, goog:processID: 14648, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56462/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2026-03-10 19:18:04,334 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:247] - Resolution Used: null 
+2026-03-10 19:18:04,335 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:251] - Java version Used: 21.0.1 
+2026-03-10 19:18:04,335 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:255] - *******END OF LOG FILE******* 
+2026-03-10 19:18:04,664 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.jq.Main@6caf7803: 68 ms 
+2026-03-10 19:18:04,667 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.FailedReporter@102c577f: 2 ms 
+2026-03-10 19:18:04,677 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.XMLReporter@44f24a20: 9 ms 
+2026-03-10 19:18:04,685 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7b948f3e: 5 ms 
+2026-03-10 19:18:04,691 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1cc680e: 5 ms 
+2026-03-10 19:18:04,692 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1dc3502b: 1 ms 
+2026-03-10 19:41:19,292 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+2026-03-10 19:41:19,307 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 10 ms. 
+2026-03-10 19:41:19,310 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:41:19,312 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 2 ms. 
+2026-03-10 19:41:19,315 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:41:19,315 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:41:19,316 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:41:19,318 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:41:19,319 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:41:19,319 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:41:19,320 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:41:19,321 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:41:19,323 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:41:19,323 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:41:19,329 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:41:19,330 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:41:19,333 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:41:19,341 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 7 ms. 
+2026-03-10 19:41:19,343 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:41:19,346 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:41:19,352 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:41:19,352 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:41:19,353 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:41:19,353 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:41:19,365 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms. 
+2026-03-10 19:41:19,368 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:41:19,370 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:41:19,370 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:41:19,371 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:41:19,372 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:41:19,381 | [] [] [INFO ] [Logger.java:112] - [TestNG] Running:
+  C:\Users\arunkumar.r\AppData\Local\Temp\testng-eclipse--312670755\testng-customsuite.xml
+ 
+2026-03-10 19:41:19,579 | [] [] [INFO ] [Logger.java:112] - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms. 
+2026-03-10 19:41:19,599 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 19:41:19,603 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 19:41:23,257 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:41:23,399 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:259] - Successfully captured Screenshot with snapnumber: 11773151883257 
+2026-03-10 19:41:24,240 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:41:24,463 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:259] - Successfully captured Screenshot with snapnumber: 11773151884240 
+2026-03-10 19:41:25,224 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:259] - Successfully captured Screenshot with snapnumber: 11773151885012 
+2026-03-10 19:41:25,982 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:243] - Browser/Driver Versions Used: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58483}, goog:processID: 15664, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58483/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2026-03-10 19:41:25,983 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:247] - Resolution Used: null 
+2026-03-10 19:41:25,983 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:251] - Java version Used: 21.0.1 
+2026-03-10 19:41:25,983 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:255] - *******END OF LOG FILE******* 
+2026-03-10 19:41:26,371 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.jq.Main@642f9a77: 90 ms 
+2026-03-10 19:41:26,373 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.FailedReporter@252a8aae: 2 ms 
+2026-03-10 19:41:26,383 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.XMLReporter@437486cd: 9 ms 
+2026-03-10 19:41:26,392 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@748d2277: 7 ms 
+2026-03-10 19:41:26,404 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@45acdd11: 11 ms 
+2026-03-10 19:41:26,407 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3f0d6038: 0 ms 
+2026-03-10 19:42:52,054 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms. 
+2026-03-10 19:42:52,069 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 10 ms. 
+2026-03-10 19:42:52,071 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:42:52,072 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:42:52,073 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:42:52,074 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:42:52,075 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:42:52,075 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:42:52,076 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:42:52,077 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:42:52,079 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:42:52,082 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:42:52,084 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:42:52,085 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:42:52,090 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:42:52,091 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:42:52,095 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:42:52,105 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 10 ms. 
+2026-03-10 19:42:52,107 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:42:52,108 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:42:52,114 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+2026-03-10 19:42:52,116 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:42:52,116 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:42:52,118 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:42:52,127 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms. 
+2026-03-10 19:42:52,128 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:42:52,131 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:42:52,132 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:42:52,133 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:42:52,134 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:42:52,140 | [] [] [INFO ] [Logger.java:112] - [TestNG] Running:
+  C:\Users\arunkumar.r\AppData\Local\Temp\testng-eclipse-1273233563\testng-customsuite.xml
+ 
+2026-03-10 19:42:52,338 | [] [] [INFO ] [Logger.java:112] - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms. 
+2026-03-10 19:42:52,356 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 19:42:52,360 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 19:42:57,682 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:42:57,865 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:259] - Successfully captured Screenshot with snapnumber: 11773151977682 
+2026-03-10 19:42:58,745 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:42:58,925 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:259] - Successfully captured Screenshot with snapnumber: 11773151978751 
+2026-03-10 19:42:59,667 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:259] - Successfully captured Screenshot with snapnumber: 11773151979461 
+2026-03-10 19:43:00,489 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:243] - Browser/Driver Versions Used: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56843}, goog:processID: 14152, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56843/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2026-03-10 19:43:00,489 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:247] - Resolution Used: null 
+2026-03-10 19:43:00,490 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:251] - Java version Used: 21.0.1 
+2026-03-10 19:43:00,490 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:255] - *******END OF LOG FILE******* 
+2026-03-10 19:43:00,838 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.jq.Main@3a082ff4: 67 ms 
+2026-03-10 19:43:00,853 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.FailedReporter@372ca2d6: 14 ms 
+2026-03-10 19:43:00,862 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.XMLReporter@127a7272: 8 ms 
+2026-03-10 19:43:00,876 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@315f09ef: 13 ms 
+2026-03-10 19:43:00,891 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2370ac7a: 8 ms 
+2026-03-10 19:43:00,891 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@534180a2: 0 ms 
+2026-03-10 19:46:55,946 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+2026-03-10 19:46:55,961 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 10 ms. 
+2026-03-10 19:46:55,964 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:46:55,966 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:46:55,968 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:46:55,969 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:46:55,972 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:46:55,973 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:46:55,973 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:46:55,974 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:46:55,975 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:46:55,976 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:46:55,977 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:46:55,977 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:46:55,984 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:46:55,984 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:46:55,989 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:46:55,997 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 8 ms. 
+2026-03-10 19:46:55,999 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:46:56,000 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:46:56,005 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:46:56,007 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:46:56,008 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:46:56,009 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:46:56,018 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms. 
+2026-03-10 19:46:56,018 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:46:56,022 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:46:56,023 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:46:56,026 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:46:56,027 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:46:56,034 | [] [] [INFO ] [Logger.java:112] - [TestNG] Running:
+  C:\Users\arunkumar.r\AppData\Local\Temp\testng-eclipse--1819071612\testng-customsuite.xml
+ 
+2026-03-10 19:46:56,226 | [] [] [INFO ] [Logger.java:112] - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms. 
+2026-03-10 19:46:56,247 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 19:46:56,252 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 19:46:59,490 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:46:59,661 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 11773152219492 
+2026-03-10 19:47:00,560 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:47:00,779 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 11773152220560 
+2026-03-10 19:47:01,510 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 11773152221326 
+2026-03-10 19:47:02,416 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:243] - Browser/Driver Versions Used: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65355}, goog:processID: 18828, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65355/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2026-03-10 19:47:02,416 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:247] - Resolution Used: null 
+2026-03-10 19:47:02,416 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:251] - Java version Used: 21.0.1 
+2026-03-10 19:47:02,417 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:255] - *******END OF LOG FILE******* 
+2026-03-10 19:47:02,799 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.jq.Main@45acdd11: 83 ms 
+2026-03-10 19:47:02,811 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.FailedReporter@3204e238: 12 ms 
+2026-03-10 19:47:02,841 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.XMLReporter@ff23ae7: 29 ms 
+2026-03-10 19:47:02,873 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3a66e67e: 9 ms 
+2026-03-10 19:47:02,880 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@534180a2: 6 ms 
+2026-03-10 19:47:02,881 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6cf0a747: 0 ms 
+2026-03-10 19:47:54,528 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms. 
+2026-03-10 19:47:54,543 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 11 ms. 
+2026-03-10 19:47:54,547 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+2026-03-10 19:47:54,548 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:47:54,549 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:47:54,550 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:47:54,551 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:47:54,552 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:47:54,552 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:47:54,554 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:47:54,556 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:47:54,556 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:47:54,557 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:47:54,557 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:47:54,563 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:47:54,563 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:47:54,566 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:47:54,578 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 10 ms. 
+2026-03-10 19:47:54,580 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:47:54,581 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:47:54,586 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:47:54,587 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:47:54,589 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:47:54,589 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:47:54,600 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms. 
+2026-03-10 19:47:54,601 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:47:54,603 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:47:54,606 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:47:54,607 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+2026-03-10 19:47:54,608 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:47:54,615 | [] [] [INFO ] [Logger.java:112] - [TestNG] Running:
+  C:\Users\arunkumar.r\AppData\Local\Temp\testng-eclipse--198635127\testng-customsuite.xml
+ 
+2026-03-10 19:47:54,815 | [] [] [INFO ] [Logger.java:112] - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms. 
+2026-03-10 19:47:54,831 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 19:47:54,835 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 19:47:58,634 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:47:58,782 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 11773152278645 
+2026-03-10 19:47:59,676 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:47:59,906 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 11773152279676 
+2026-03-10 19:48:00,646 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 11773152280426 
+2026-03-10 19:48:01,453 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:243] - Browser/Driver Versions Used: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62295}, goog:processID: 12040, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62295/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2026-03-10 19:48:01,454 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:247] - Resolution Used: null 
+2026-03-10 19:48:01,454 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:251] - Java version Used: 21.0.1 
+2026-03-10 19:48:01,454 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:255] - *******END OF LOG FILE******* 
+2026-03-10 19:48:01,826 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.jq.Main@3f0d6038: 77 ms 
+2026-03-10 19:48:01,842 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.FailedReporter@38ed139b: 15 ms 
+2026-03-10 19:48:01,850 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.XMLReporter@423b2b62: 8 ms 
+2026-03-10 19:48:01,864 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@75d4a80f: 13 ms 
+2026-03-10 19:48:01,877 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6cf0a747: 12 ms 
+2026-03-10 19:48:01,878 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@21505815: 0 ms 
+2026-03-10 19:49:07,083 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+2026-03-10 19:49:07,102 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 12 ms. 
+2026-03-10 19:49:07,107 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:49:07,108 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:49:07,111 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:49:07,111 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:49:07,112 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:49:07,113 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:49:07,114 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:49:07,116 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:49:07,117 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:49:07,118 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:49:07,119 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:49:07,120 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:49:07,130 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:49:07,133 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:49:07,136 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:49:07,152 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 15 ms. 
+2026-03-10 19:49:07,157 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+2026-03-10 19:49:07,159 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:49:07,168 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:49:07,170 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:49:07,171 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:49:07,171 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:49:07,185 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms. 
+2026-03-10 19:49:07,187 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:49:07,192 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 19:49:07,192 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 19:49:07,196 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms. 
+2026-03-10 19:49:07,200 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 19:49:07,213 | [] [] [INFO ] [Logger.java:112] - [TestNG] Running:
+  C:\Users\arunkumar.r\AppData\Local\Temp\testng-eclipse-1476469639\testng-customsuite.xml
+ 
+2026-03-10 19:49:07,405 | [] [] [INFO ] [Logger.java:112] - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms. 
+2026-03-10 19:49:07,421 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 19:49:07,426 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 19:49:11,883 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:49:12,005 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 11773152351883 
+2026-03-10 19:49:12,909 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 19:49:13,170 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 11773152352909 
+2026-03-10 19:49:13,933 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 11773152353758 
+2026-03-10 19:49:14,682 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 11773152354476 
+2026-03-10 19:49:15,123 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:243] - Browser/Driver Versions Used: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63451}, goog:processID: 156, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63451/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2026-03-10 19:49:15,125 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:247] - Resolution Used: null 
+2026-03-10 19:49:15,125 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:251] - Java version Used: 21.0.1 
+2026-03-10 19:49:15,126 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:255] - *******END OF LOG FILE******* 
+2026-03-10 19:49:15,491 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.jq.Main@7fb29ca9: 79 ms 
+2026-03-10 19:49:15,494 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.FailedReporter@18b8d173: 2 ms 
+2026-03-10 19:49:15,502 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.XMLReporter@7b948f3e: 8 ms 
+2026-03-10 19:49:15,510 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@68b9834c: 8 ms 
+2026-03-10 19:49:15,518 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@c755b2: 7 ms 
+2026-03-10 19:49:15,519 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3bd2af5b: 0 ms 
+2026-03-10 20:00:04,368 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms. 
+2026-03-10 20:00:04,379 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 5 ms. 
+2026-03-10 20:00:04,381 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 20:00:04,382 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 20:00:04,385 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 20:00:04,386 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 20:00:04,387 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 20:00:04,387 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 20:00:04,388 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 20:00:04,388 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 20:00:04,389 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 20:00:04,389 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 20:00:04,390 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 20:00:04,390 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 20:00:04,396 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 20:00:04,396 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 20:00:04,399 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 20:00:04,409 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 10 ms. 
+2026-03-10 20:00:04,411 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 20:00:04,412 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 20:00:04,417 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 20:00:04,420 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms. 
+2026-03-10 20:00:04,420 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 20:00:04,420 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 20:00:04,427 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms. 
+2026-03-10 20:00:04,428 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 20:00:04,431 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 20:00:04,431 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 20:00:04,432 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms. 
+2026-03-10 20:00:04,433 | [] [] [INFO ] [Logger.java:112] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms. 
+2026-03-10 20:00:04,444 | [] [] [INFO ] [Logger.java:112] - [TestNG] Running:
+  C:\Users\arunkumar.r\AppData\Local\Temp\testng-eclipse--152587329\testng-customsuite.xml
+ 
+2026-03-10 20:00:04,618 | [] [] [INFO ] [Logger.java:112] - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms. 
+2026-03-10 20:00:04,636 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 20:00:04,640 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 20:00:07,244 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:00:07,372 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 11773153007248 
+2026-03-10 20:00:08,158 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:00:08,408 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 11773153008158 
+2026-03-10 20:00:09,158 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 11773153008952 
+2026-03-10 20:00:09,851 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 11773153009632 
+2026-03-10 20:00:10,512 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 11773153010321 
+2026-03-10 20:00:11,205 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 11773153010999 
+2026-03-10 20:00:11,631 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:243] - Browser/Driver Versions Used: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56091}, goog:processID: 19952, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56091/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2026-03-10 20:00:11,632 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:247] - Resolution Used: null 
+2026-03-10 20:00:11,632 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:251] - Java version Used: 21.0.1 
+2026-03-10 20:00:11,632 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:255] - *******END OF LOG FILE******* 
+2026-03-10 20:00:11,993 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.jq.Main@53c6f96d: 77 ms 
+2026-03-10 20:00:11,995 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.FailedReporter@1b7a52dd: 2 ms 
+2026-03-10 20:00:12,005 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.XMLReporter@797c3c3b: 9 ms 
+2026-03-10 20:00:12,010 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7f5b9db: 4 ms 
+2026-03-10 20:00:12,015 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1e0a864d: 4 ms 
+2026-03-10 20:00:12,016 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Logger.java:112] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@440e3ce6: 0 ms 
+2026-03-10 20:06:54,787 | [] [] [INFO ] [Logger.java:112] - [TestNG] Running:
+  D:\Trinity\saucedemo-automation\testsuites\saucedemo.xml
+ 
+2026-03-10 20:06:54,992 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 20:06:54,992 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 20:06:54,992 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 20:06:55,002 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 20:06:55,002 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 20:06:55,002 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 20:07:00,204 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:07:00,452 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773153420205 
+2026-03-10 20:07:00,561 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:07:00,840 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 301773153420563 
+2026-03-10 20:07:01,018 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:07:01,224 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773153421018 
+2026-03-10 20:07:03,119 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:07:03,400 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773153423121 
+2026-03-10 20:07:04,209 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:07:04,232 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:07:04,545 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773153424234 
+2026-03-10 20:07:04,545 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 301773153424209 
+2026-03-10 20:07:04,625 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773153424441 
+2026-03-10 20:07:05,435 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773153425237 
+2026-03-10 20:07:06,221 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773153425961 
+2026-03-10 20:07:06,397 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:07:06,599 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773153426397 
+2026-03-10 20:07:07,082 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773153426881 
+2026-03-10 20:07:07,429 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:07:07,545 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773153427429 
+2026-03-10 20:07:09,578 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:07:09,712 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773153429578 
+2026-03-10 20:07:09,933 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773153429811 
+2026-03-10 20:07:10,281 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:07:10,395 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773153430281 
+2026-03-10 20:07:10,601 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773153430480 
+2026-03-10 20:07:13,891 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 301773153433699 
+2026-03-10 20:07:16,743 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 301773153436555 
+2026-03-10 20:07:19,339 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 301773153439036 
+2026-03-10 20:07:19,972 | [] [] [INFO ] [Reporter.java:243] - Browser/Driver Versions Used: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55150}, goog:processID: 23312, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55150/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2026-03-10 20:07:19,972 | [] [] [INFO ] [Reporter.java:247] - Resolution Used: null 
+2026-03-10 20:07:19,973 | [] [] [INFO ] [Reporter.java:251] - Java version Used: 21.0.1 
+2026-03-10 20:07:19,974 | [] [] [INFO ] [Reporter.java:255] - *******END OF LOG FILE******* 
+2026-03-10 20:29:26,147 | [] [] [INFO ] [Logger.java:112] - [TestNG] Running:
+  D:\Trinity\saucedemo-automation\testsuites\saucedemo.xml
+ 
+2026-03-10 20:29:26,358 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 20:29:26,357 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 20:29:26,357 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 20:29:26,364 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 20:29:26,364 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 20:29:26,364 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 20:29:32,077 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:29:32,258 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773154772077 
+2026-03-10 20:29:32,390 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:29:32,582 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:29:32,597 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773154772392 
+2026-03-10 20:29:32,892 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 301773154772585 
+2026-03-10 20:29:34,757 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:29:34,996 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773154774759 
+2026-03-10 20:29:35,820 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:29:35,844 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:29:36,095 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773154775822 
+2026-03-10 20:29:36,125 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 301773154775844 
+2026-03-10 20:29:37,060 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:29:37,169 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773154776878 
+2026-03-10 20:29:37,176 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773154777060 
+2026-03-10 20:29:37,750 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:29:37,861 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773154777752 
+2026-03-10 20:29:38,442 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773154777921 
+2026-03-10 20:29:41,119 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773154780659 
+2026-03-10 20:29:41,322 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:29:41,465 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773154781324 
+2026-03-10 20:29:41,910 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773154781746 
+2026-03-10 20:29:42,486 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:29:42,620 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773154782486 
+2026-03-10 20:29:42,798 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773154782691 
+2026-03-10 20:29:42,857 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773154782508 
+2026-03-10 20:29:47,144 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 301773154786959 
+2026-03-10 20:29:50,277 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 301773154790139 
+2026-03-10 20:29:52,925 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 301773154792580 
+2026-03-10 20:29:53,466 | [] [] [INFO ] [Reporter.java:243] - Browser/Driver Versions Used: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65104}, goog:processID: 27112, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65104/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2026-03-10 20:29:53,468 | [] [] [INFO ] [Reporter.java:247] - Resolution Used: null 
+2026-03-10 20:29:53,469 | [] [] [INFO ] [Reporter.java:251] - Java version Used: 21.0.1 
+2026-03-10 20:29:53,469 | [] [] [INFO ] [Reporter.java:255] - *******END OF LOG FILE******* 
+2026-03-10 20:37:48,796 | [] [] [INFO ] [Logger.java:112] - [TestNG] Running:
+  D:\Trinity\saucedemo-automation\testsuites\saucedemo.xml
+ 
+2026-03-10 20:37:49,017 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 20:37:49,017 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 20:37:49,017 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Reporter.java:92] - Going to set testName, test description, author for the report. 
+2026-03-10 20:37:49,038 | [Scenario 3: Product Sorting Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 20:37:49,038 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 20:37:49,038 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [Reporter.java:104] - Going to get extentTest instance from thread local class... 
+2026-03-10 20:37:55,305 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:37:55,358 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:37:55,367 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:37:55,638 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773155275306 
+2026-03-10 20:37:55,694 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 301773155275368 
+2026-03-10 20:37:55,694 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773155275359 
+2026-03-10 20:37:57,828 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:37:58,229 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773155277830 
+2026-03-10 20:37:58,609 | [Scenario 3: Product Sorting Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:37:58,622 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:37:58,910 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773155278609 
+2026-03-10 20:37:58,924 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 301773155278624 
+2026-03-10 20:37:59,872 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773155279617 
+2026-03-10 20:37:59,945 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:38:00,114 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773155279945 
+2026-03-10 20:38:00,858 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:38:00,983 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773155280860 
+2026-03-10 20:38:01,194 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773155280880 
+2026-03-10 20:38:03,508 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773155282862 
+2026-03-10 20:38:04,225 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:38:04,359 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773155284226 
+2026-03-10 20:38:04,606 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773155284462 
+2026-03-10 20:38:04,724 | [Scenario 3: Product Sorting Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 291773155284409 
+2026-03-10 20:38:05,101 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [ProjectSpecificFunctions.java:43] - Successfully navigated to page --> 
+2026-03-10 20:38:05,223 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773155285103 
+2026-03-10 20:38:05,413 | [Scenario-1-Complete Positive Shopping Flow with Cart Management] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 281773155285281 
+2026-03-10 20:38:08,681 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 301773155288461 
+2026-03-10 20:38:11,260 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 301773155291073 
+2026-03-10 20:38:14,241 | [Scenario 2: Social Media Icon Redirection Validation] [] [INFO ] [SeleniumBase.java:260] - Successfully captured Screenshot with snapnumber: 301773155293592 
+2026-03-10 20:38:14,831 | [] [] [INFO ] [Reporter.java:243] - Browser/Driver Versions Used: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\ARUNKU~1.R\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54388}, goog:processID: 16684, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54388/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true} 
+2026-03-10 20:38:14,832 | [] [] [INFO ] [Reporter.java:247] - Resolution Used: null 
+2026-03-10 20:38:14,832 | [] [] [INFO ] [Reporter.java:251] - Java version Used: 21.0.1 
+2026-03-10 20:38:14,832 | [] [] [INFO ] [Reporter.java:255] - *******END OF LOG FILE******* 

@@ -1,0 +1,43 @@
+<configuration>
+    <!-- File Appender -->
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+        <encoder>
+            <charset>UTF-8</charset>
+            <pattern>%date | [%X{TCNAME}] [%X{NODEIP}] [%-5level] [%file:%line] - %msg %n</pattern>
+        </encoder>
+    </appender>
+ 
+    <!-- Rolling File Appender -->
+    <appender name="FILE-APPENDER" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <encoder>
+            <charset>UTF-8</charset>
+            <pattern>%date | [%X{TCNAME}] [%X{NODEIP}] [%-5level] [%file:%line] - %msg %n</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- Add the missing fileNamePattern property -->
+            <fileNamePattern>logs/app-%d{yyyy-MM-dd}.log</fileNamePattern>
+            <maxFileSize>100MB</maxFileSize>
+        </rollingPolicy>
+    </appender>
+ 
+    <!-- Console Appender -->
+    <appender name="CONSOLE-APPENDER" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <charset>UTF-8</charset>
+            <pattern>%date | [%X{TCNAME}] [%X{NODEIP}] [%-5level] [%file:%line] - %msg %n</pattern>
+        </encoder>
+        <!-- Deny all events with a level below INFO, that is DEBUG and TRACE -->
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>INFO</level>
+        </filter>
+        <immediateFlush>true</immediateFlush>
+    </appender>
+ 
+    <!-- Root Logger Configuration -->
+    <root level="info">
+        <appender-ref ref="FILE"/>
+        <appender-ref ref="CONSOLE-APPENDER"/>
+        <appender-ref ref="FILE-APPENDER"/>
+    </root>
+ 
+</configuration>
